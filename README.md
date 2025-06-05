@@ -41,6 +41,6 @@
 
 <br clear="both">
 
-Updated my GitHub profile README 🎉
+Updated my GitHub profile README ! 🎉
 
 ###
