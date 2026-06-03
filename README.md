@@ -41,7 +41,6 @@
 
 ### 🔥 Contribution Activity 
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrRishabThapa&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20(Last%20Month)&range=30" width="95%"/>
 
 
 
@@ -50,7 +49,6 @@
 
 ### 📜 Dynamic Typing Animation  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Front-End+Developer;Co-Founder+of+saflora;Always+Learning+New+Things;Turning+Ideas+Into+Reality;Just+a+cool+guy+at+general+😎" />
 </div>
 
 ---
@@ -63,17 +61,17 @@
 </a>
 
 <!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/rishab-thapa-0ba327341/" target="_blank">
+<a href="https://www.linkedin.com/in/yudeen-dahal-7b1056296/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" height="30"/>
 </a>
 
 <!-- Instagram Badge -->
-<a href="https://www.instagram.com/_rishabthapa7/" target="_blank">
+<a href="https://www.instagram.com/ig.uyudeen/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white" height="30"/>
 </a>
 
 <!-- Website Badge -->
-<!-- <a href="https://www.rishabthapa.com.np" target="_blank"> -->
+ <a href="https://www.yudeendahal.github.io/Gallery_" target="_blank"> 
   <img src="https://img.shields.io/badge/Website-0A66C2?style=flat&logo=internet-explorer&logoColor=white" height="30"/>
 </a>
 </div>
