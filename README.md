@@ -1,16 +1,15 @@
 <!-- Header with Transparent BG Coding GIF -->
 <div align="center">
  
-  <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Rishab Thapa</span></h1>
-  <h3 align="center">💡 Co-Founder | 🎨 Front-End Developer </h3>
+  <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Yudin Dahal</span></h1>
+  <h3 align="center"> passionate Front-End Developer </h3>
 </div>
 
 ---
 
 ### 🧑‍💻 About Me  
-- 💻 Intrested about building **modern & responsive UIs**  
+- 💻 Intrested in building **modern & responsive UIs**  
 - 🌐 Front-End focus with exposure to workflows  
-- 🔥 Skilled in **React, Flutter, TypeScript, Firebase** and more  
 - 🌱 Continuously learning & experimenting with **new tools**  
 - 🤝 Open for **collaborations** & **innovative projects**  
 
