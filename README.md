@@ -1,4 +1,3 @@
-<!-- Header with Transparent BG Coding GIF -->
 <div align="center">
  
   <h1 align="center">Hi there, I'm <span style="color:#4CAF50;">Yudin Dahal</span></h1>
