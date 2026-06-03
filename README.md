@@ -58,7 +58,7 @@
 ### 🌐 Let's Connect
 <div align="center">
   <!-- Gmail Badge -->
-<a href="mailto:rishabthapa7777@gmail.com">
+<a href="mailto:yudeendahal@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white" height="30"/>
 </a>
 
@@ -73,7 +73,7 @@
 </a>
 
 <!-- Website Badge -->
-<a href="https://www.rishabthapa.com.np" target="_blank">
+<!-- <a href="https://www.rishabthapa.com.np" target="_blank"> -->
   <img src="https://img.shields.io/badge/Website-0A66C2?style=flat&logo=internet-explorer&logoColor=white" height="30"/>
 </a>
 </div>
